@@ -83,7 +83,7 @@ public:
     }
 };
 
-class Solution { // Accepted storing the calulated values in priority queue
+class Solution { // Accepted storing the calculated values in priority queue
 public:
     int maxResult(vector<int>& nums, int k) {
         int n = nums.size();
